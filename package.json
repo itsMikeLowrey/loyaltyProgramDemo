@@ -1,0 +1,11 @@
+{
+  "name": "loyaltyProgramDemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:itsMikeLowrey/loyaltyProgramDemo.git",
+  "author": "Donely Gunn <32291941+itsMikeLowrey@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blind-signatures": "^1.0.7"
+  }
+}
